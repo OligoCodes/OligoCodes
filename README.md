@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm a passionate front-end developer and digital creator from Ghana 🇬🇭, building modern, responsive, and interactive web applications using HTML, CSS, JavaScript, and other powerful tools.
 
-🚀 I’m the creator of [OligoTech](https://oligotech.vercel.app), a portfolio of my web apps, tools, and mini-projects — crafted with love and clean code.
+🚀 I’m the creator of <a href="https://oligotech.vercel.app" target="_blank" style="display: inline-block; background-color: #25D366; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">OligoTech</a> and <a href="https://discord.gg/JxhdbVsM" target="_blank" style="display: inline-block; background-color: #257A66; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">OligoVerse</a>, a portfolio of my web apps, tools, and mini-projects — crafted with love and clean code.
 
 ## 🔍 What I Do
 - 🎨 Front-End Development
