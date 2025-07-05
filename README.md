@@ -19,11 +19,15 @@ Explore my web creations: fast, mobile-friendly, and SEO-ready.
 - 🌍 [Visit my Website](https://oligotech.vercel.app)  
 - 🛠 Follow for more cool stuff!
 
-## Join my WhatsApp Channel
+## Join my WhatsApp Channel and Discord Server
 
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VbB6vUk1NCrRjbDzKZ3W" target="_blank">
-    <img src="https://img.shields.io/badge/Join%20My%20WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel"/>
+    <img src="https://img.shields.io/badge/Join%20My%20WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp Channel"/>
+  </a>
+  &nbsp;
+  <a href="https://discord.gg/JxhdbVsM" target="_blank">
+    <img src="https://img.shields.io/badge/Join%20My%20Discord%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord Server"/>
   </a>
 </p>
 
