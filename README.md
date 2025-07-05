@@ -1,12 +1,30 @@
-- 👋 Hi, I’m @OligoCodes
-- 👀 I’m interested in everything about tech
-- 🌱 I’m currently learning full stack web dev
-- 💞️ I’m looking to collaborate on a Chatbot Project
-- 📫 How to reach me {email => josephoseibonsu742@gmail.com}
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: John 3:16
+# 👋 Hi, I'm Joseph Kwabena Osei Bonsu – aka OligoCodes!
 
-<!---
-OligoCodes/OligoCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub! I'm a passionate front-end developer and digital creator from Ghana 🇬🇭, building modern, responsive, and interactive web applications using HTML, CSS, JavaScript, and other powerful tools.
+
+🚀 I’m the creator of [OligoTech](https://oligotech.vercel.app), a portfolio of my web apps, tools, and mini-projects — crafted with love and clean code.
+
+## 🔍 What I Do
+- 🎨 Front-End Development
+- ⚙️ Web Tools & UI Prototypes
+- 📲 Progressive Web Apps (PWAs)
+- 🧠 Creative coding with purpose 
+
+## 🌐 Featured Projects
+Explore my web creations: fast, mobile-friendly, and SEO-ready.
+
+## 💬 Let’s Connect
+- 📫 Email: josephoseibonsu742@gmail.com  
+- 💬 [Join my WhatsApp Channel](https://wa.me/+233551448745)  
+- 🌍 [Visit my Website](https://oligotech.vercel.app)  
+- 🛠 Follow for more cool stuff!
+
+## Join my WhatsApp Channel
+
+<p align="center">
+  <a href="https://whatsapp.com/channel/0029VbB6vUk1NCrRjbDzKZ3W" target="_blank">
+    <img src="https://img.shields.io/badge/Join%20My%20WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel"/>
+  </a>
+</p>
+
+> 💡 I'm always learning, building, and sharing. Follow my journey on GitHub and let’s grow together in code!
