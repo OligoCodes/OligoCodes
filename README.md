@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Joseph Kwabena Osei Bonsu – aka OligoCodes!
+![Profile](https://i.postimg.cc/HkgMcVS3/Oligo.png)
 
 Welcome to my GitHub! I'm a passionate front-end developer and digital creator from Ghana 🇬🇭, building modern, responsive, and interactive web applications using HTML, CSS, JavaScript, and other powerful tools.
 
