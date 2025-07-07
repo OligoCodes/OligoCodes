@@ -7,12 +7,16 @@ Welcome to my GitHub! I'm a passionate front-end developer and digital creator f
   </a> and <a href="https://discord.gg/JxhdbVsM" target="_blank" style="display: inline-block; background-color: #5865F2; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">
     💬 OligoVerse (Discord)
   </a>, a portfolio of my web apps, tools, and mini-projects — crafted with love and clean code.
+  
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ## 🔍 What I Do
 - 🎨 Front-End Development
 - ⚙️ Web Tools & UI Prototypes
 - 📲 Progressive Web Apps (PWAs)
-- 🧠 Creative coding with purpose 
+- 🧠 Creative coding with purpose
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ## 🌐 Featured Projects
 Explore my web creations: fast, mobile-friendly, and SEO-ready.
@@ -22,6 +26,8 @@ Explore my web creations: fast, mobile-friendly, and SEO-ready.
 - 💬 [Join my WhatsApp Channel](https://wa.me/+233551448745)  
 - 🌍 [Visit my Website](https://oligotech.vercel.app)  
 - 🛠 Follow for more cool stuff!
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ## Join my WhatsApp Channel and Discord Server
 
