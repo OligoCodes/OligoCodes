@@ -1,4 +1,4 @@
-# <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines= 👋 Hi, I'm Joseph Kwabena Osei Bonsu – aka OligoCodes!" alt="OligoCodes">
+# 👋 Hi, I'm Joseph Kwabena Osei Bonsu – aka OligoCodes!
 ![Profile](https://i.postimg.cc/HkgMcVS3/Oligo.png)
 
 Welcome to my GitHub! I'm a passionate front-end developer and digital creator from Ghana 🇬🇭, building modern, responsive, and interactive web applications using HTML, CSS, JavaScript, and other powerful tools.
@@ -22,7 +22,7 @@ Welcome to my GitHub! I'm a passionate front-end developer and digital creator f
 ## 🌐 Featured Projects
 Explore my web creations: fast, mobile-friendly, and SEO-ready.
 
-## 💬 Let’s Connect
+## 💬 <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines= Let’s Connect" alt="CONNECT">
 - 📫 Email: josephoseibonsu742@gmail.com  
 - 💬 [Join my WhatsApp Channel](https://wa.me/+233551448745)  
 - 🌍 [Visit my Website](https://oligotech.vercel.app)  
