@@ -1,4 +1,4 @@
-# <h1 style="text-align:center;"> 👋 Hi, I'm Joseph Kwabena Osei Bonsu – aka OligoCodes!</h1>
+# <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines= 👋 Hi, I'm Joseph Kwabena Osei Bonsu – aka OligoCodes!" alt="OligoCodes">
 ![Profile](https://i.postimg.cc/HkgMcVS3/Oligo.png)
 
 Welcome to my GitHub! I'm a passionate front-end developer and digital creator from Ghana 🇬🇭, building modern, responsive, and interactive web applications using HTML, CSS, JavaScript, and other powerful tools.
