@@ -1,5 +1,5 @@
 <!-- Banner / Header -->
-<h1 align="center">⚡ Yo! I'm <span style="color:#ff00ab;">Joseph Kwabena Osei Bonsu</span><b>(OligoCodes)</b> 🚀</h1>
+<h1 align="center"> 👤 I'm <span style="color:#ff00ab;">Joseph Kwabena Osei Bonsu</span><b>(OligoCodes)</b>🫆</h1>
 <p align="center">
   <img src="https://i.postimg.cc/HkgMcVS3/Oligo.png" alt="Profile Banner" width="600"/>
 </p>
@@ -28,7 +28,8 @@
 ## 🛠 Tech Stack  
 
 <p align="center">
-  <img height=1800 width=1800 src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,express,git,github,vscode,replit,figma" />
+  <img
+src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,express,git,github,vscode,replit,figma" />
 </p>
 
 ---
