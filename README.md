@@ -12,7 +12,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF00AB&center=true&vCenter=true&width=600&lines=Frontend+Developer+💻;Python+Developer+🐍;Bot+Builder+🤖;Math+Enthusiast+🧮;Creator+of+OligoTech+%26+OligoVerse+🌍" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF00AB&center=true&vCenter=true&width=600&lines=Frontend+Developer+💻;Python+Developer+🐍;Bot+Builder+🤖;Math+Enthusiast+🧮;Creator+of+OligoTech+%26+OligoVerse+🌍" alt="Typing SVG">
 </p>
 
 ---
@@ -28,7 +28,7 @@
 ## 🛠 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,python,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,express,nodejs,python,git,github,vscode,canva" />
 </p>
 
 ---
