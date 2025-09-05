@@ -88,11 +88,11 @@
 
 ---
 
-## 🎶 Now Playing on Spotify  
+## 🎶 Now Playing
 
 <p align="center">
   <a href="https://open.spotify.com/track/5wGsHz4u8LopZlpwIZO60q">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=OligoCodes&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=1DB954&bar_color_cover=false" alt="Spotify Track"/>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=OligoCodes&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=1DB954&bar_color_cover=false" alt="Run to Me, Confess Your Love on Spotify" width="450"/>
   </a>
 </p>
 
