@@ -94,9 +94,9 @@
   <img src="https://i.gifer.com/3HeY.gif" width="60" height="60"/>
 </p>
 <p align="center">
-  <img src="https://i.gifer.com/3HeY.gif" width="60" height="60"/>  
+  <img src="https://i.gifer.com/3HeY.gif" width="50" height="60"/>  
   <em style="font-weight:800;">  ULTIMATE PROGRAMMER</em>  
-  <img src="https://i.gifer.com/3HeY.gif" width="60" height="60"/>  
+  <img src="https://i.gifer.com/3HeY.gif" width="50" height="60"/>  
 </p>
 
 ---
