@@ -1,5 +1,5 @@
 <!-- Banner / Header -->
-<h1 align="center"> 👤 I'm <span style="color:#ff00ab;">Joseph Kwabena Osei Bonsu</span> <b>(OligoCodes)</b> 🫆</h1>
+<h1 align="center">  🫆 I'm <span style="color:#ff00ab;">Joseph Kwabena Osei Bonsu</span> <b>(OligoCodes)</b> </h1>
 <p align="center">
   <img src="https://i.postimg.cc/HkgMcVS3/Oligo.png" alt="Profile Banner" width="600" style="border-radius: 25px;"/>
 </p>
@@ -76,12 +76,6 @@
 
 ---
 
-## 🐍 Watch My Contributions Get Eaten  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/OligoCodes/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
----
-
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
 </p>
@@ -94,9 +88,9 @@
   <img src="https://i.gifer.com/3HeY.gif" width="80" height="60"/>
 </p>
 <p align="center">
-  <img src="https://i.gifer.com/3HeY.gif" width="30" height="80"/>  
+  <img src="https://i.gifer.com/3HeY.gif" width="40" height="70"/>  
   <em style="font-weight:800;">  ULTIMATE PROGRAMMER</em>  
-  <img src="https://i.gifer.com/3HeY.gif" width="30" height="80"/>  
+  <img src="https://i.gifer.com/3HeY.gif" width="40" height="70"/>  
 </p>
 
 ---
