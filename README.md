@@ -99,9 +99,9 @@
 ---
 
 <p align="center">
-  <img src="https://i.gifer.com/3HeY.gif" width="90" height="60"/>  
+  <img src="https://i.gifer.com/3HeY.gif" width="60" height="60"/>  
   <em style="font-weight: 800;">Coding with Jesus...</em>  
-  <img src="https://i.gifer.com/3HeY.gif" width="90" height="60"/>  
+  <img src="https://i.gifer.com/3HeY.gif" width="60" height="60"/>  
 </p>
 
 ---
