@@ -1,46 +1,78 @@
-# 👋 Hi, I'm Joseph Kwabena Osei Bonsu – aka OligoCodes!
-![Profile](https://i.postimg.cc/HkgMcVS3/Oligo.png)
-
-Welcome to my GitHub! I'm a passionate front-end developer and digital creator from Ghana 🇬🇭, building modern, responsive, and interactive web applications using HTML, CSS, JavaScript, and other powerful tools.
-
-🚀 I’m the creator of <a href="https://oligotech.vercel.app" target="_blank" style="display: inline-block; background-color: #25D366; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; margin-right: 10px;">
-    🌐 OligoTech
-  </a> and <a href="https://discord.gg/JxhdbVsM" target="_blank" style="display: inline-block; background-color: #5865F2; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">
-    💬 OligoVerse (Discord)
-  </a>, a portfolio of my web apps, tools, and mini-projects — crafted with love and clean code.
-  
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
-## 🔍 What I Do
-- 🎨 Front-End Development
-- ⚙️ Web Tools & UI Prototypes
-- 📲 Progressive Web Apps (PWAs)
-- 🧠 Creative coding with purpose
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
-## 🌐 Featured Projects
-Explore my web creations: fast, mobile-friendly, and SEO-ready.
-
-## 💬 <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines= Let’s Connect" alt="CONNECT">
-- 📫 Email: josephoseibonsu742@gmail.com  
-- 💬 [Join my WhatsApp Channel](https://wa.me/+233551448745)  
-- 🌍 [Visit my Website](https://oligotech.vercel.app)  
-- 🛠 Follow for more cool stuff!
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-
-## Join my WhatsApp Channel and Discord Server
-
+<!-- Banner / Header -->
+<h1 align="center">👋 Hi, I'm <span style="color:#ff00ab;">Joseph Kwabena Osei Bonsu</span> – aka <b>OligoCodes</b> ⚡</h1>
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029VbB6vUk1NCrRjbDzKZ3W" target="_blank">
-    <img src="https://img.shields.io/badge/Join%20My%20WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp Channel"/>
-  </a>
-  &nbsp;
-  <a href="https://discord.gg/JxhdbVsM" target="_blank">
-    <img src="https://img.shields.io/badge/Join%20My%20Discord%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord Server"/>
-  </a>
+  <img src="https://i.postimg.cc/HkgMcVS3/Oligo.png" alt="Profile Banner" width="600"/>
 </p>
 
-> 💡 I'm always learning, building, and sharing. Follow my journey on GitHub and let’s grow together in code!
-uilding, and sharing. Follow my journey on GitHub and let’s grow together in code!
+<p align="center">
+  <em>Front-End Dev • Digital Creator • Math Wiz • Building Bots & Web Magic from 🇬🇭</em>
+</p>
+
+---
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF00AB&center=true&vCenter=true&width=500&lines=Frontend+Developer+💻;Bot+Builder+🤖;Math+Enthusiast+🧮;Creator+of+OligoTech+%26+OligoVerse+🚀" alt="Typing SVG">
+</p>
+
+---
+
+## 🚀 What I Do  
+- 🎨 Building **responsive, modern front-ends**  
+- ⚙️ Designing **tools & UI prototypes**  
+- 📲 Creating **PWAs** for mobile-first web  
+- 🧠 Creative coding with purpose  
+
+---
+
+## 🛠 Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,git,github,vscode,figma" />
+</p>
+
+---
+
+## 🌟 Featured Projects  
+
+🔗 Explore my web creations: **fast, mobile-friendly, and SEO-ready**.  
+
+- [🌐 OligoTech](https://oligotech.vercel.app) – My portfolio of apps, tools, and projects  
+- [💬 OligoVerse (Discord)](https://discord.gg/hUmuuFD5) – My dev + creator community  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OligoCodes&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OligoCodes&theme=radical" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OligoCodes&layout=compact&theme=radical" height="170"/>
+</p>
+
+---
+
+## 🌍 Connect With Me  
+
+<p align="center">
+  <a href="mailto:josephoseibonsu742@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://wa.me/+233551448745"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://whatsapp.com/channel/0029VbBVKfQI1rcsEUloFW18"><img src="https://img.shields.io/badge/WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://t.me/OligoTech"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://discord.gg/hUmuuFD5"><img src="https://img.shields.io/badge/Discord%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://oligotech.vercel.app"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+---
+
+## 🐍 Watch My Contributions Get Eaten
+<p align="center">
+  <img src="https://github.com/OligoCodes/OligoCodes/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+</p>
+
+---
+
+💡 *Always learning, building, and sharing. Let’s grow together in code!*
