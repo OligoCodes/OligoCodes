@@ -85,3 +85,27 @@
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
 </p>
+
+---
+
+## 🎶 Now Playing on Spotify  
+
+<p align="center">
+  <a href="https://open.spotify.com/user/OligoCodes">
+    <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ff00ab" alt="Spotify Now Playing" width="450"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://i.gifer.com/3HeY.gif" width="60" height="60"/>  
+  <em>Vibing while coding...</em>  
+  <img src="https://i.gifer.com/3HeY.gif" width="60" height="60"/>  
+</p>
+
+---
+
+## 💡 Dev Quote of the Day  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" width="450"/>
+</p>
