@@ -78,20 +78,12 @@
 
 ## 🐍 Watch My Contributions Get Eaten  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OligoCodes/OligoCodes/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/github/OligoCodes/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 ---
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
-</p>
-
----
-
-## 🎶 Now Playing
-
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ydlg3mrxvise23dyovmvf6qwca&redirect=true&cover_image=true&theme=default&show_offline=true&background_color=0000ff&interchange=true&bar_color=c4a03d&bar_color_cover=true" alt="Spotify Now Playing" width="450" />
 </p>
 
 ---
