@@ -75,29 +75,13 @@
 </p>
 
 ---
-
-## 🐍 Watch My Contributions Get Eaten
+## 🐍 Watch My Contributions Get Eaten  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OligoCodes/OligoCodes/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/OligoCodes/OligoCodes/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 ---
 
-## 🎶 Now Playing on Spotify  
-
 <p align="center">
-  <a href="https://open.spotify.com/user/OligoCodes">
-    <img src="https://novatorem-oligocodes.vercel.app/api/spotify" alt="Spotify Now Playing" width="500"/>
-  </a>
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="70">
 </p>
-
----
-
-## 💡 Dev Quote of the Day  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-</p>
-
----
-
-💡 *Always learning, building, and sharing. Let’s grow together in code!*
