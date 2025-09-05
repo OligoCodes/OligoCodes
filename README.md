@@ -90,7 +90,10 @@
 
 <p align="center">
   <img src="https://i.gifer.com/3HeY.gif" width="60" height="60"/>  
-  <em style="font-weight: 800;">GOD IS THE UMTIMATE PROGRAMMER...</em>  
+  <em style="font-weight: 800;">GOD IS THE</em>
+  <img src="https://i.gifer.com/3HeY.gif" width="60" height="60"/>
+  <img src="https://i.gifer.com/3HeY.gif" width="60" height="60"/>  
+  <em style="font-weight:800;">  UMTIMATE PROGRAMMER...</em>  
   <img src="https://i.gifer.com/3HeY.gif" width="60" height="60"/>  
 </p>
 
