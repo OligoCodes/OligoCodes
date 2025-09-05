@@ -1,7 +1,7 @@
 <!-- Banner / Header -->
 <h1 align="center"> 👤 I'm <span style="color:#ff00ab;">Joseph Kwabena Osei Bonsu</span> <b>(OligoCodes)</b> 🫆</h1>
 <p align="center">
-  <img src="https://i.postimg.cc/HkgMcVS3/Oligo.png" alt="Profile Banner" width="600" style="border-radius: 25px; box-shadow: 0px 0px 20px #1F51FF;"/>
+  <img src="https://i.postimg.cc/HkgMcVS3/Oligo.png" alt="Profile Banner" width="600" style="border-radius: 25px;"/>
 </p>
 
 <p align="center">
@@ -99,9 +99,9 @@
 ---
 
 <p align="center">
-  <img src="https://i.gifer.com/3HeY.gif" width="60" height="60"/>  
-  <em>Coding with Jesus...</em>  
-  <img src="https://i.gifer.com/3HeY.gif" width="60" height="60"/>  
+  <img src="https://i.gifer.com/3HeY.gif" width="90" height="60"/>  
+  <em style="font-weight: 800;">Coding with Jesus...</em>  
+  <img src="https://i.gifer.com/3HeY.gif" width="90" height="60"/>  
 </p>
 
 ---
