@@ -1,18 +1,18 @@
 <!-- Banner / Header -->
-<h1 align="center">👋 Hi, I'm <span style="color:#ff00ab;">Joseph Kwabena Osei Bonsu</span> – aka <b>OligoCodes</b> ⚡</h1>
+<h1 align="center">⚡ Yo! I'm <span style="color:#ff00ab;">Joseph Kwabena Osei Bonsu</span> – aka <b>OligoCodes</b> 🚀</h1>
 <p align="center">
   <img src="https://i.postimg.cc/HkgMcVS3/Oligo.png" alt="Profile Banner" width="600"/>
 </p>
 
 <p align="center">
-  <em>Front-End Dev • Digital Creator • Math Wiz • Building Bots & Web Magic from 🇬🇭</em>
+  <em>Front-End Dev • Python Coder • Digital Creator • Math Wiz • Building Bots & Web Magic from 🇬🇭</em>
 </p>
 
 ---
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF00AB&center=true&vCenter=true&width=500&lines=Frontend+Developer+💻;Bot+Builder+🤖;Math+Enthusiast+🧮;Creator+of+OligoTech+%26+OligoVerse+🚀" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF00AB&center=true&vCenter=true&width=600&lines=Frontend+Developer+💻;Python+Developer+🐍;Bot+Builder+🤖;Math+Enthusiast+🧮;Creator+of+OligoTech+%26+OligoVerse+🌍" alt="Typing SVG">
 </p>
 
 ---
@@ -28,7 +28,7 @@
 ## 🛠 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,python,git,github,vscode,figma" />
 </p>
 
 ---
@@ -70,8 +70,18 @@
 
 ## 🐍 Watch My Contributions Get Eaten
 <p align="center">
-  <img src="https://github.com/OligoCodes/OligoCodes/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+  <img src="https://raw.githubusercontent.com/OligoCodes/OligoCodes/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
+
+---
+
+## 🎶 Extras (Optional Add-ons)
+
+- **Now Playing on Spotify**  
+  [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyid)
+
+- **Dev Quote of the Day**  
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Dev Quote"/>
 
 ---
 
