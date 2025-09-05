@@ -91,7 +91,7 @@
 
 ## 🎶 Now Playing
 
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ydlg3mrxvise23dyovmvf6qwca&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ydlg3mrxvise23dyovmvf6qwca&cover_image=true&theme=default&show_offline=true&background_color=0000ff&interchange=false&bar_color=c4a03d&bar_color_cover=true)]]
+[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ydlg3mrxvise23dyovmvf6qwca&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31ydlg3mrxvise23dyovmvf6qwca&cover_image=true&theme=default&show_offline=true&background_color=0000ff&interchange=false&bar_color=c4a03d&bar_color_cover=true)]
 
 ---
 
