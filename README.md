@@ -1,5 +1,5 @@
 <!-- Banner / Header -->
-<h1 align="center">⚡ Yo! I'm <span style="color:#ff00ab;">Joseph Kwabena Osei Bonsu</span> – aka <b>OligoCodes</b> 🚀</h1>
+<h1 align="center">⚡ Yo! I'm <span style="color:#ff00ab;">Joseph Kwabena Osei Bonsu</span><b>(OligoCodes)</b> 🚀</h1>
 <p align="center">
   <img src="https://i.postimg.cc/HkgMcVS3/Oligo.png" alt="Profile Banner" width="600"/>
 </p>
@@ -12,7 +12,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF00AB&center=true&vCenter=true&width=600&lines=Frontend+Developer+💻;Python+Developer+🐍;Bot+Builder+🤖;Math+Enthusiast+🧮;Creator+of+OligoTech+%26+OligoVerse+🌍" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=27&duration=3000&pause=1000&color=1F51FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+💻;Python+Developer+🐍;Bot+Builder+🤖;Math+Enthusiast+🧮;Creator+of+OligoTech+%26+OligoVerse+🌍" alt="Typing SVG">
 </p>
 
 ---
@@ -28,7 +28,7 @@
 ## 🛠 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,express,nodejs,replit,git,github,vscode,figma,maths" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,express,git,github,vscode,replit,render,chatgpt,figma" />
 </p>
 
 ---
