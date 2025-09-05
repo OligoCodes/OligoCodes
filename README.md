@@ -66,7 +66,7 @@
 <p align="center">
   <a href="https://wa.me/+233551448745"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://whatsapp.com/channel/0029VbBVKfQI1rcsEUloFW18"><img src="https://img.shields.io/badge/WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://t.me/OligoTech"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/OligoTech"><img src="https://img.shields.io/badge/Telegram%20Channel-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 <p align="center">
