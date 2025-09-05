@@ -91,7 +91,9 @@
 ## 🎶 Now Playing on Spotify  
 
 <p align="center">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5wGsHz4u8LopZlpwIZO60q?utm_source=generator" width="450" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+  <a href="https://open.spotify.com/track/5wGsHz4u8LopZlpwIZO60q">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=OligoCodes&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=1DB954&bar_color_cover=false" alt="Spotify Track"/>
+  </a>
 </p>
 
 ---
