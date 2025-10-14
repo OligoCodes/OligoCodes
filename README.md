@@ -12,7 +12,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=36&duration=3000&pause=1000&color=1F51FF&center=true&vCenter=true&width=700&lines=Frontend+Developer+💻;Python+Developer+🐍;NodeJS+Developer+💎;Bot+Builder+🤖;Math+Enthusiast+🧮;Creator+of+OligoTech+%26+OligoVerse+🌍" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=38&duration=3000&pause=1000&color=1F51FF&center=true&vCenter=true&width=700&lines=Frontend+Developer+💻;Python+Developer+🐍;NodeJS+Developer+💎;Bot+Builder+🤖;Math+Enthusiast+🧮;Creator+of+OligoTech+📌" alt="Typing SVG">
 </p>
 
 ---
