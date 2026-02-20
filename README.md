@@ -1,7 +1,7 @@
 <!-- Banner / Header -->
 <h1 align="center">  🫆 I'm <span style="color:#ff00ab;">Joseph Kwabena Osei Bonsu</span> <b>(OligoCodes)</b> </h1>
 <p align="center">
-  <img src="https://i.postimg.cc/HkgMcVS3/Oligo.png" alt="Profile Banner" width="600" style="border-radius: 25px;"/>
+  <img src="https://i.postimg.cc/gkLtrdK8/file-00000000ab1471f79d2ff47bd88c78f7.png" alt="Profile Banner" width="600" style="border-radius: 25px;"/>
 </p>
 
 <p align="center">
